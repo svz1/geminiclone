@@ -13,7 +13,7 @@ const Sidebar = () => {
             <p className="recenttitle">Recent</p>
             <div className="recententry">
                 <img src={assets.message_icon} alt="" />
-                <p>What is react...</p>
+                <p>What is not react...</p>
             </div>
         </div>
         </div>
